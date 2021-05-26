@@ -1,0 +1,9 @@
+.product-card-container {
+    display: inline-block;
+    width: 45%;
+}
+
+.plans-slider-container{
+    padding: 0;
+    justify-content: center;
+}
